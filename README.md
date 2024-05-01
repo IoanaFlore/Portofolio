@@ -60,7 +60,7 @@ My name is Marincaș Ioana, I am a 1st year master's student in Technologies, Sy
 
 **UniTest-Selenium**
 
- * UNITTEST -SELENIUM AUTOMATED TEST PROJECT - SAUCEDEMO](https://github.com/IoanaFlore/Saucedemo_Unittest_Selenium_Automation/blob/main/README.md)
+ * [UNITTEST -SELENIUM AUTOMATED TEST PROJECT - SAUCEDEMO](https://github.com/IoanaFlore/Saucedemo_Unittest_Selenium_Automation/blob/main/README.md)
 
 **JAVA**
 
@@ -69,5 +69,14 @@ My name is Marincaș Ioana, I am a 1st year master's student in Technologies, Sy
 
 ## CERTIFICATES
 * Database Design and Programming - Oracle Academy
+  
+![3](https://github.com/IoanaFlore/Portofolio/assets/111995212/729055b5-7032-4999-9d24-14a914613a85)
+
 * QA Automation Tester - IT Factory
+  
+![1](https://github.com/IoanaFlore/Portofolio/assets/111995212/fb230741-3053-4c3e-b3e4-dca7f8738789)
+ 
 * QA Software Tester - IT Factory
+* 
+![2](https://github.com/IoanaFlore/Portofolio/assets/111995212/661129e9-d069-4efa-a6e0-4181f71a1254)
+
