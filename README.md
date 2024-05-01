@@ -33,3 +33,5 @@ My name is Marincaș Ioana, I am a 1st year master's student in Technologies, Sy
   ## Examples of my work
   
 **My SQL**
+
+[SQL PROJECT FOR BOOKING PLANE TICKETS](https://github.com/IoanaFlore/Database_Project_For_-Bookin-plane-tickets-/blob/main/README.md)
