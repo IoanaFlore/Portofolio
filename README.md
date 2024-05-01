@@ -19,6 +19,7 @@ My name is Marincaș Ioana, I am a 1st year master's student in Technologies, Sy
 * Zephyr for JIRA
 * Postman for API
 * MySQL
+* Oracle APEX
 * PyCharm for Python
 * Selenium
 
@@ -34,4 +35,9 @@ My name is Marincaș Ioana, I am a 1st year master's student in Technologies, Sy
   
 **My SQL**
 
-[SQL PROJECT FOR BOOKING PLANE TICKETS](https://github.com/IoanaFlore/Database_Project_For_-Bookin-plane-tickets-/blob/main/README.md)
+* [SQL PROJECT FOR BOOKING PLANE TICKETS](https://github.com/IoanaFlore/Database_Project_For_-Bookin-plane-tickets-/blob/main/README.md)
+* [SQL PROJECT FOR ONLINE SHOP](https://github.com/IoanaFlore/SQL--project-for-online-shop)
+
+  **Oracle APEX**
+* [mdPostmanORACLE APEX FOR BOOKING PLANE TICKETS](https://github.com/IoanaFlore/Oracle-APEX---Booking-plane-tickets)
+  
