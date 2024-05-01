@@ -12,6 +12,7 @@ My name is Marincaș Ioana, I am a 1st year master's student in Technologies, Sy
 * Can apply test design techniques, such as: boundary value analysis, equivalence paritioning, to derive test cases
 * Can make API requests in Postman- beginner level.
 * Can create database in MySQL- beginner level.
+* Can create API tests in Pycharm
 * Possess the knowledge required to utilize OOP concepts and techniques(Python and Java)->beginner level.
 
 ## Tools
@@ -21,6 +22,8 @@ My name is Marincaș Ioana, I am a 1st year master's student in Technologies, Sy
 * MySQL
 * Oracle APEX
 * PyCharm for Python
+* Firebase
+* Android Studio
 * Selenium
 
 ## Soft Skills
@@ -39,10 +42,27 @@ My name is Marincaș Ioana, I am a 1st year master's student in Technologies, Sy
 * [SQL PROJECT FOR ONLINE SHOP](https://github.com/IoanaFlore/SQL--project-for-online-shop)
 
   **Oracle APEX**
-* [mdPostmanORACLE APEX FOR BOOKING PLANE TICKETS](https://github.com/IoanaFlore/Oracle-APEX---Booking-plane-tickets)
+* [ORACLE APEX FOR BOOKING PLANE TICKETS](https://github.com/IoanaFlore/Oracle-APEX---Booking-plane-tickets)
   
   **Postman for API**
  * [SIMPLE BOOKS](https://github.com/IoanaFlore/API-Testing-Project-Simple-Books)
  * [CONTACT LIST](https://github.com/IoanaFlore/API-Testing-Project--Contact-List)
-  
-  
+
+   **API Testing in PyCharm**
+ * [API TESTING AUTOMATED PROJECT](https://github.com/IoanaFlore/SimpleBooks_Api_Testing_Automation_Framework)
+
+    **BDD**
+  *[BDD AUTOMATED TEST PROJECT - NOPCOMMERCE](https://github.com/IoanaFlore/nopCommerce-BDD-Automation-Framework)
+
+   **UniTest-Selenium**
+   *[UNITTEST -SELENIUM AUTOMATED TEST PROJECT - SAUCEDEMO](https://github.com/IoanaFlore/Saucedemo_Unittest_Selenium_Automation/blob/main/README.md)
+
+   **JAVA**
+   
+   *[JAVA-FOOD APP PROJECT](https://github.com/IoanaFlore/FoodAppJavaProject)
+
+
+## CERTIFICATES
+* Database Design and Programming - Oracle Academy
+* QA Automation Tester - IT Factory
+* QA Software Tester - IT Factory
