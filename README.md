@@ -33,11 +33,16 @@ My name is Marincaș Ioana, I am a 1st year master's student in Technologies, Sy
 
   ## Examples of my work
   
-**My SQL**
+  **My SQL**
 
 * [SQL PROJECT FOR BOOKING PLANE TICKETS](https://github.com/IoanaFlore/Database_Project_For_-Bookin-plane-tickets-/blob/main/README.md)
 * [SQL PROJECT FOR ONLINE SHOP](https://github.com/IoanaFlore/SQL--project-for-online-shop)
 
   **Oracle APEX**
 * [mdPostmanORACLE APEX FOR BOOKING PLANE TICKETS](https://github.com/IoanaFlore/Oracle-APEX---Booking-plane-tickets)
+  
+  **Postman for API**
+ * [SIMPLE BOOKS](https://github.com/IoanaFlore/API-Testing-Project-Simple-Books)
+ * [CONTACT LIST](https://github.com/IoanaFlore/API-Testing-Project--Contact-List)
+  
   
