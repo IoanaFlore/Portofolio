@@ -35,14 +35,15 @@ My name is Marincaș Ioana, I am a 1st year master's student in Technologies, Sy
 * As a hobby, I am an energic person, I love walking. I like cookig, reading.
 
   ## Examples of my work
-  
-  **My SQL**
 
-* [SQL PROJECT FOR BOOKING PLANE TICKETS](https://github.com/IoanaFlore/Database_Project_For_-Bookin-plane-tickets-/blob/main/README.md)
-* [SQL PROJECT FOR ONLINE SHOP](https://github.com/IoanaFlore/SQL--project-for-online-shop)
+**My SQL**
 
-  **Oracle APEX**
-* [ORACLE APEX FOR BOOKING PLANE TICKETS](https://github.com/IoanaFlore/Oracle-APEX---Booking-plane-tickets)
+ * [SQL PROJECT FOR BOOKING PLANE TICKETS](https://github.com/IoanaFlore/Database_Project_For_-Bookin-plane-tickets-/blob/main/README.md)
+ * [SQL PROJECT FOR ONLINE SHOP](https://github.com/IoanaFlore/SQL--project-for-online-shop)
+
+**Oracle APEX**
+
+ * [ORACLE APEX FOR BOOKING PLANE TICKETS](https://github.com/IoanaFlore/Oracle-APEX---Booking-plane-tickets)
   
   **Postman for API**
  * [SIMPLE BOOKS](https://github.com/IoanaFlore/API-Testing-Project-Simple-Books)
