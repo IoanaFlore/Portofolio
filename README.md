@@ -48,18 +48,18 @@ My name is Marincaș Ioana, I am a 1st year master's student in Technologies, Sy
  * [SIMPLE BOOKS](https://github.com/IoanaFlore/API-Testing-Project-Simple-Books)
  * [CONTACT LIST](https://github.com/IoanaFlore/API-Testing-Project--Contact-List)
 
-   **API Testing in PyCharm**
+  **API Testing in PyCharm**
  * [API TESTING AUTOMATED PROJECT](https://github.com/IoanaFlore/SimpleBooks_Api_Testing_Automation_Framework)
 
     **BDD**
   *[BDD AUTOMATED TEST PROJECT - NOPCOMMERCE](https://github.com/IoanaFlore/nopCommerce-BDD-Automation-Framework)
 
    **UniTest-Selenium**
-   *[UNITTEST -SELENIUM AUTOMATED TEST PROJECT - SAUCEDEMO](https://github.com/IoanaFlore/Saucedemo_Unittest_Selenium_Automation/blob/main/README.md)
+ *[UNITTEST -SELENIUM AUTOMATED TEST PROJECT - SAUCEDEMO](https://github.com/IoanaFlore/Saucedemo_Unittest_Selenium_Automation/blob/main/README.md)
 
    **JAVA**
    
-   *[JAVA-FOOD APP PROJECT](https://github.com/IoanaFlore/FoodAppJavaProject)
+*[JAVA-FOOD APP PROJECT](https://github.com/IoanaFlore/FoodAppJavaProject)
 
 
 ## CERTIFICATES
