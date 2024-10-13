@@ -1,7 +1,7 @@
 # Portofolio
 
 ## About me
-My name is Marincaș Ioana, I am a 1st year master's student in Technologies, System and applications for eActivities, Electronics, Telecommunications and Information Technology, Cluj-Napoca. Being a person always willing to learn new things, in November 2023 I finished a manual and automatic testing course, learning and discovering more and more the area of testing. Through this platform, I aim to share all the valuable insights and expertise I acquire from personal studies and in-depth research.
+My name is Marincaș Ioana, I am a 2nd year master's student in Technologies, System and applications for eActivities, Electronics, Telecommunications and Information Technology, Cluj-Napoca. Being a person always willing to learn new things, in November 2023 I finished a manual and automatic testing course, learning and discovering more and more the area of testing. Through this platform, I aim to share all the valuable insights and expertise I acquire from personal studies and in-depth research.
 
 ## Tech Skills
 **Testing**
